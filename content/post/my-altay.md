@@ -8,7 +8,7 @@ keyword ='我的阿勒泰,阿勒泰,李娟,下载,在线阅读'
 
 该剧改编自作家李娟同名散文集。生长在阿勒泰的汉族少女李文秀（周依然 饰）一心在大城市中追求文学梦想，却屡屡碰壁被迫回到老家与开小卖部的母亲张凤侠（马伊琍 饰）相依为命。在结识哈萨克少年巴太（于适 饰）之后，文秀渐渐发现了当地之美。
 
-![我的阿勒泰](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2905618615.webp)
+![我的阿勒泰](https://raw.githubusercontent.com/9527y/growth_life_blog/master/uPic/%E6%88%91%E7%9A%84%E9%98%BF%E5%8B%92%E6%B3%B0.jpeg)
 
 
 
