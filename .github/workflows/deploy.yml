@@ -35,4 +35,4 @@ jobs:
           publish_dir: ./public
           EXTERNAL_REPOSITORY: 9527y/9527y.github.io
           commit_message: ${{ github.event.head_commit.message }}
-
+          cname: linkall.pub
