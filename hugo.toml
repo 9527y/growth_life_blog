@@ -2,3 +2,6 @@ baseURL = 'https://linkall.pub/'
 languageCode = 'zh-cn'
 title = '逆天改命'
 theme = 'ananke'
+
+[params]
+  recent_posts_number = 20
