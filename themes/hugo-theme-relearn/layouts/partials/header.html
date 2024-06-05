@@ -48,6 +48,7 @@
     {{- partial "stylesheet.html" (dict "page" . "outputFormat" $outputFormat) }}
     {{- partial "dependencies.html" (dict "page" . "location" "header" "outputFormat" $outputFormat) }}
     {{- partial "custom-header.html" . }}
+    <meta name="google-adsense-account" content="ca-pub-7732072032123305">
   </head>
   <body class="mobile-support {{ $outputFormat }}{{- if .Site.Params.disableInlineCopyToClipBoard }} disableInlineCopyToClipboard{{ end }}{{- if .Site.Params.disableHoverBlockCopyToClipBoard }} disableHoverBlockCopyToClipBoard{{ end }}" data-url="{{ partial "relLangPrettyUglyURL.hugo" (dict "to" .) }}">
     <div id="R-body" class="default-animation">
