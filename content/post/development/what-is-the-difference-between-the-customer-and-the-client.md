@@ -1,7 +1,7 @@
 ---
 title: 顾客和客户的区别是什么
 categories:
-  - 系统
+  - 系统开发
 tags:
   - POS
   - 系统开发

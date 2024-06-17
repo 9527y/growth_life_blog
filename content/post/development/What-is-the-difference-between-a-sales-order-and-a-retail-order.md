@@ -1,7 +1,7 @@
 ---
 title: 销售单和零售单有什么区别
 categories:
-  - 系统
+  - 系统开发
 tags:
   - POS
   - 系统开发
